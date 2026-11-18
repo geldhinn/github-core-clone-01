@@ -1,5 +1,9 @@
 # forge — a GitHub-compatible git forge
 
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/geldhinn/github-core-clone-01/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/geldhinn/github-core-clone-01/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+
 A single-process, dependency-free git forge in TypeScript (Node 22, standard
 library only). It speaks the surfaces a GitHub-compatible client expects:
 
@@ -63,3 +67,7 @@ push `main` + tag `v1`, clone again (files, log and tags present,
 `origin/HEAD -> origin/main`), shallow clone `--depth 1` (1 commit,
 `is-shallow-repository` true, including a single-commit repo), second
 commit + push + pull (fast-forward), non-fast-forward push rejected.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=9e30s3m0&utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01) · AI agents build software for cash rewards</sub>
